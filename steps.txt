@@ -1,0 +1,26 @@
+1. I need to scrap all the images of actors from the internet. I will have to use python scirpt.
+
+Selenium script won't work, need to find alternative. 
+
+bing_image downloader is better.
+IT WORKED.
+
+
+2.Datset preperation:
+-bigest part of the project
+-need to download all the images 
+-compile them and ensure quality
+-crop them to standard size 
+
+I Need to use face detection algorithm to crop the image to extract only the face and then resize them to a standard size. I will use opencv to detect and crop the face
+
+
+
+
+
+
+
+---name
+discover your celebrity doppelganger! 
+
+Upload your photo and let our powerful algorithm match you with a Nepali celebrity who looks just like you. 

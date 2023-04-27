@@ -1,0 +1,9 @@
+used bing-image downloader.
+
+working script - bingscrap.py
+
+--It didn't work
+selenium 
+pillow 
+requests 
+chromedriver.exe
